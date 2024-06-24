@@ -1,0 +1,68 @@
+#cc{
+	font-size: 48px;
+    font-weight: 700;
+    color: #012970;
+    font-family: "Nunito", sans-serif;
+}
+.body1{
+	margin-left: 80px;
+	margin-top: 20px;
+	margin-right: 50px;
+	font-family: "Poppins", sans-serif;
+}
+.flex-container{
+	display: flex;
+}
+#navbar{
+	margin-top: 12px;
+	margin-left: 3.5cm;
+}
+#navbar a{
+	text-decoration: none;
+	color: black;
+	font-size: 18px;
+	margin-right: 60px;
+}
+#navbar a:hover{
+	color: blue;
+}
+#bai{
+	font-family: "Poppins", sans-serif;
+	color: #bf1d1d;
+	text-align: center;
+	font-size: 20px;
+}
+#bha{
+	font-family: "Nunito", sans-serif;
+	color: #444444;
+	font-size: 30px;
+}
+#koi{
+	color: #0362fc;
+	font-size: 23px;
+	font-family: "Poppins", sans-serif;
+	font-weight: 500;
+	margin-left: 60px;
+}
+.body1{
+	margin-left: 80px;
+	margin-top: 20px;
+	margin-right: 50px;
+	font-family: "Poppins", sans-serif;
+}
+.flex-container{
+	display: flex;
+}
+.buo{
+ font-family: 'Gilroy-Bold', sans-serif;
+ font-size: 22px;
+}
+span{
+	color: #012970;
+}
+#koi:hover{
+	color: purple;
+}
+span1:hover{
+	color: purple;
+}

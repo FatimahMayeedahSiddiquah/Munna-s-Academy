@@ -1,0 +1,35 @@
+.body1{
+	margin-left: 80px;
+	margin-top: 20px;
+	margin-right: 50px;
+	font-family: "Poppins", sans-serif;
+}
+.flex-container{
+	display: flex;
+}
+#navbar{
+	margin-top: 12px;
+	margin-left: 3.5cm;
+}
+#navbar a{
+	text-decoration: none;
+	color: black;
+	font-size: 18px;
+	margin-right: 60px;
+}
+#navbar a:hover{
+	color: blue;
+}
+#coli{
+    font-weight: 700;
+    color: #012970;
+    font-family: "Nunito", sans-serif;
+    font-size: 30px;
+}
+.grid-container{
+	display: grid;
+	grid-template-columns: auto auto auto auto;
+	justify-content: center;
+	grid-column-gap: 8px;
+	grid-row-gap: 8px;
+}
